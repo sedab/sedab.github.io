@@ -28,9 +28,9 @@ Juan Jose Zamudio, Atakan Okan, Asena Derin Cengiz & Seda Bilaloglu
 *face recognition*
 
 
-6. nyc taxi - big data
+*nyc taxi - big data*
 
-7. NLP
+*NLP - Machine Translation*
 
 
 
