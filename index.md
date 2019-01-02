@@ -19,18 +19,18 @@ Juan Jose Zamudio, Atakan Okan, Asena Derin Cengiz & Seda Bilaloglu
 [GitHub](https://github.com/sedab/HydroGAN),
 [poster](https://github.com/sedab/HydroGAN/blob/master/HydroGAN-poster.pdf)
 
-*urban-data-project*
+**urban-data-project**
 
-*eyetracking*
+**eyetracking**
 
-*tactila detection*
+**tactila detection**
 
-*face recognition*
+**face recognition**
 
 
-*nyc taxi - big data*
+**nyc taxi - big data**
 
-*NLP - Machine Translation*
+**NLP - Machine Translation**
 
 
 
