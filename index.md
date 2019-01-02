@@ -1,5 +1,3 @@
-
-
 I am a data scintist/engineer working at Predictive Analytics Unit at NYU Langone Health. I am pursuing a masters degree in Data Scince at New York University. I am interested in Clinical Machine Learninig
 
 ____________________________________________________________________________________________________________________________
@@ -17,18 +15,18 @@ ________________________________________________________________________________
 ### Projects
 
 *Creating simulations of our universe using GANs*
-[GitHub](https://github.com/sedab/HydroGAN)
+Juan Jose Zamudio, Atakan Okan, Asena Derin Cengiz & Seda Bilaloglu
+[GitHub](https://github.com/sedab/HydroGAN),
 [poster](https://github.com/sedab/HydroGAN/blob/master/HydroGAN-poster.pdf)
 
-1. urban-data-project
+*urban-data-project*
 
-2. eyetracking
+*eyetracking*
 
-3. tactila detection
+*tactila detection*
 
-4. face recognition
+*face recognition*
 
-5. airbnb
 
 6. nyc taxi - big data
 
