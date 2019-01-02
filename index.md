@@ -2,7 +2,9 @@
 ### Seda Bilaloglu 🙋🏻
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Work
+
+I am a data scintist/engineer working at Predictive Analytics Unit at NYU Langone Health. I am pursuing a masters degree in Data Scince at New York University. I am interested in Clinical Machine Learninig
 
 
 ### Projects
