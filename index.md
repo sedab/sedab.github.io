@@ -4,17 +4,17 @@ ________________________________________________________________________________
 
 ### Work
 
-*NYU Langone Health*, Data Scientist/Engineer 
+**NYU Langone Health**, Data Scientist/Engineer 
 Predictive Analytics Unit, Department of Population Health
 
-*NYU Langone Health*, Data Analyst
+**NYU Langone Health**, Data Analyst
 Motor Recovery Research Lab, Department of Rehabilitation Medicine
 
 ____________________________________________________________________________________________________________________________
 
 ### Projects
 
-*Creating simulations of our universe using GANs*
+**Creating simulations of our universe using GANs**
 Juan Jose Zamudio, Atakan Okan, Asena Derin Cengiz & Seda Bilaloglu
 [GitHub](https://github.com/sedab/HydroGAN),
 [poster](https://github.com/sedab/HydroGAN/blob/master/HydroGAN-poster.pdf)
