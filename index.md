@@ -8,7 +8,7 @@ ________________________________________________________________________________
 Predictive Analytics Unit, Department of Population Health
 
 **NYU Langone Health**, Data Analyst<br/>
-Motor Recovery Research Lab, Department of Rehabilitation Medicine
+Department of Rehabilitation Medicine
 
 ____________________________________________________________________________________________________________________________
 
@@ -18,19 +18,20 @@ ________________________________________________________________________________
 Juan Jose Zamudio, Atakan Okan, Asena Derin Cengiz & Seda Bilaloglu<br/>
 [GitHub](https://github.com/sedab/HydroGAN),
 [poster](https://github.com/sedab/HydroGAN/blob/master/HydroGAN-poster.pdf)
+[paper]()
 
-**urban-data-project**
+**Pathology image classification with Deep Learning**
+[paper]()
 
-**eyetracking**
-
-**tactila detection**
-
-**face recognition**
+**Eye-hand coordination**
+[poster](https://github.com/sedab/eyetracking/blob/master/SFN_Poster_2015_Eye-hand%20coordination%20for%20adaptation%20of%20hand%20posture%20to%20object%20shape.PDF)
 
 
-**nyc taxi - big data**
+**Adaptation of fingertip forces**
+[paper](https://www.physiology.org/doi/full/10.1152/jn.00639.2015),
+[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4509387/)
 
-**NLP - Machine Translation**
+
 
 
 
