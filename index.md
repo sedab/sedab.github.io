@@ -7,7 +7,7 @@ ________________________________________________________________________________
 **NYU Langone Health**, Data Scientist/Engineer<br/>
 Predictive Analytics Unit, Department of Population Health
 
-**NYU Langone Health**, Data Analyst<br/>
+**NYU Langone Health**, Research Engineer<br/>
 Department of Rehabilitation Medicine
 
 ____________________________________________________________________________________________________________________________
