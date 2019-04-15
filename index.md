@@ -17,8 +17,9 @@ ________________________________________________________________________________
 **Creating simulations of our universe using GANs**<br/>
 Juan Jose Zamudio, Atakan Okan, Asena Derin Cengiz & Seda Bilaloglu<br/>
 [GitHub](https://github.com/sedab/HydroGAN),
-[poster](https://github.com/sedab/HydroGAN/blob/master/HydroGAN-poster.pdf)
 [paper]()
+
+<img src="images/HydroGAN-poster.pdf" alt="hi" class="inline"/>
 
 **Pathology image classification with Deep Learning**
 [paper]()
