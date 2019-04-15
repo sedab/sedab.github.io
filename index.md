@@ -22,13 +22,13 @@ Department of Rehabilitation Medicine
 
 ### Education
 
-**Master of Science in Data Science, In Process ** <br/>
+**Master of Science in Data Science, In Process**<br/>
 New York University – Center for Data Science, New York, New York
 
-**Master of Science in Biomedical Engineering **<br/>
+**Master of Science in Biomedical Engineering**<br/>
 New York University – School of Engineering, New York, New York
 
-**Bachelor of Science in Electrical and Electronics Engineering **<br/>
+**Bachelor of Science in Electrical and Electronics Engineering**<br/>
 Bilkent University, Ankara, Turkey
 
 
