@@ -19,7 +19,7 @@ Juan Jose Zamudio, Atakan Okan, Asena Derin Cengiz & Seda Bilaloglu<br/>
 [GitHub](https://github.com/sedab/HydroGAN),
 [paper]()
 
-<img src="images/HydroGAN-poster.pdf" alt="hi" class="inline"/>
+<img src="/images/HydroGAN-poster.pdf" class="inline"/>
 
 **Pathology image classification with Deep Learning**
 [paper]()
