@@ -11,6 +11,18 @@ Department of Rehabilitation Medicine
 
 ____________________________________________________________________________________________________________________________
 
+### Social Media
+
+linkedin:https://www.linkedin.com/in/seda-bilaloglu-013b9a2b/
+  
+google-scholar:https://scholar.google.com/citations?user=7E1r-jQAAAAJ&hl=en
+  
+twitter:https://twitter.com/sedabilaloglu
+
+
+
+____________________________________________________________________________________________________________________________
+
 ### Projects
 
 **Creating simulations of our universe using GANs**<br/>
