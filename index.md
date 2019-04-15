@@ -20,6 +20,21 @@ Department of Rehabilitation Medicine
 
 
 
+### Education
+
+Master of Science in Data Science, In Process – Expected completion 2019
+New York University – Center for Data Science, New York, New York
+
+Master of Science in Biomedical Engineering 
+New York University – School of Engineering, New York, New York
+
+Bachelor of Science in Electrical and Electronics Engineering 
+Bilkent University, Ankara, Turkey
+
+
+
+
+
 
 ### Projects
 
