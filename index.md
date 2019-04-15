@@ -1,4 +1,4 @@
-I am a data scintist/engineer working at Predictive Analytics Unit at NYU Langone Health. I am pursuing a masters degree in Data Scince at New York University. I am interested in Clinical Machine Learninig
+I am a data scintist/engineer working at Predictive Analytics Unit at NYU Langone Health. Currently pursuing a masters degree in Data Scince at New York University. I am interested in Clinical Machine Learninig
 
 ____________________________________________________________________________________________________________________________
 
