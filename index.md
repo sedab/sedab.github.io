@@ -13,11 +13,11 @@ ________________________________________________________________________________
 
 ### Social Media
 
-linkedin:https://www.linkedin.com/in/seda-bilaloglu-013b9a2b/
+[linkedin](https://www.linkedin.com/in/seda-bilaloglu-013b9a2b/)
   
-google-scholar:https://scholar.google.com/citations?user=7E1r-jQAAAAJ&hl=en
+[google-scholar] (https://scholar.google.com/citations?user=7E1r-jQAAAAJ&hl=en)
   
-twitter:https://twitter.com/sedabilaloglu
+[twitter] (https://twitter.com/sedabilaloglu)
 
 
 
